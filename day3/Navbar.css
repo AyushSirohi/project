@@ -1,0 +1,14 @@
+.fcontainer{
+    display: flex;
+}
+.fitem{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+    border: 12px solid  green;
+    font-size: 20px;
+    text-align: center;
+
+}
